@@ -1,0 +1,21 @@
+.amarillo{
+	background-color: yellow;
+	padding-bottom: 3em;
+	width: 12em;
+	height: 6em;
+	
+}
+.gris{
+	background-color: grey;
+	padding-bottom: 3em;
+	width: 12em;
+	height: 6em;
+}
+p{
+	padding-top: 0.4em;
+	padding-left: 0.4em;
+}
+
+.gris p{
+	color: white;
+}

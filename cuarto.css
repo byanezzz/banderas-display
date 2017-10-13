@@ -1,0 +1,17 @@
+.amarillo{
+	background-color: yellow;	
+	display: inline-block;
+}
+.gris{
+	background-color: grey;	
+	display: inline-block;
+	margin:20px;
+}
+.gris p{
+	color: white;
+}
+
+p{
+	padding: 0.4em;
+	margin:0;
+}
